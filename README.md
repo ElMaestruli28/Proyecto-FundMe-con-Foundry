@@ -1,6 +1,8 @@
-#Hello!!
+# Sobre el proyecto
+Es una app sobre Crowd Sourcing
 
-aguante el rojo
-``
-code here!!
-``
+# Empezando
+
+## Requerimientos
+
+## Inicio Rapido
